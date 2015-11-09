@@ -3,7 +3,7 @@
 
 ### Informasi
 
-* __fusebits.txt - Pengaturan fusebit untuk ATmega8 untuk USBasp.
+* __fusebits.txt__ - Pengaturan fusebit untuk ATmega8 untuk USBasp.
 * __firmaware.hex__ - Automatic Software Controlled Clock Jumper Free USBasp ATmega8.
 * __usbasp_plus_target.sch__ - Skematik untuk USBasp.
 * __usbasp_plus_target.brd__ - Layout untuk board USBasp.

@@ -20,3 +20,8 @@
 
 * [USBasp - USB programmer for Atmel AVR controllers](http://www.fischl.de/usbasp/)
 * [Automatic Software Controlled Clock Jumper Free USBasp](https://automasys.wordpress.com/2013/02/16/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88%D9%86%DB%8C%DA%A9-avr-usbasp/)
+
+
+![USBasp With Automatic Clock Top View](usbasp-top.jpg)
+
+![USBasp With Automatic Clock Bottom View](usbasp-bottom.jpg)
